@@ -1,23 +1,18 @@
 # Bank-ATM-Management-System
 
-We have all come across ATMs in our cities, and they are built on Java. This complex project consists of 15 different classes and is a GUI-based application. When the system starts, the user enters the card number and pin. After entering the details successfully, ATM functionalities are unlocked.
+Developed a comprehensive Bank (ATM) Management System, designed to handle various banking operations seamlessly. The application is built using core Java for robust backend processing, MySQL for efficient database management, and Java Swing and AWT for an user-friendly graphical interface and Maven for project management.
 
 The project allows for the following operations:
-1. Login (enter the card number PIN and choose the bank name).
-2. Signup (If the user doesn't have an ATM card and PIN, then create a new account, fill in all the details, and get the card number with a computer-generated PIN).
-3. Click the Exit button to exit the program.
-4. Deposit.
-5. Withdrawal.
-6. Change the PIN.
-7. Fast cash withdrawal
-8. E-Statement.
-9. Balance check.
-10. Press the exit button to exit the ATM.
+
+•	Transactions: Withdraw, deposit, and fast withdrawal options.
+•	Account Management: Pin change, view bank statements and create new ATM accounts with a 16-digit card number and automated 4-digit pin.
+•	User Authentication: Secure login and sign-up with email verification using OTP.
+
 
 The technology used in this project is:
 
-1. Java Swing
-2. Java AWT
-3. Java SQL
-4. MYSQL server
-5. Maven 
+• Java Swing
+• Java AWT
+• Java SQL
+• MYSQL server
+• Maven 
