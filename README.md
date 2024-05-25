@@ -1,7 +1,8 @@
 # Bank-ATM-Management-System
 
-We have all come across ATMs in our cities, and they are built on Java. This complex project consists of 15 different classes and is a GUI-based application. When the system starts, the user enters the card number and pin. After entering the details successfully, ATM functionalities are unlocked.
-The project allows for the following operations:
+    We have all come across ATMs in our cities, and they are built on Java. This complex project consists of 15 different classes and is a GUI-based application. When the system starts, the user enters the card number and pin. After entering the details successfully, ATM functionalities are unlocked.
+
+    The project allows for the following operations:
 1. Login (enter the card number PIN and choose the bank name).
 2. Signup (If the user doesn't have an ATM card and PIN, then create a new account, fill in all the details, and get the card number with a computer-generated PIN).
 3. Click the Exit button to exit the program.
